@@ -1,0 +1,1 @@
+# Testes de injeção de dependência com GO
