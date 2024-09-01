@@ -2,10 +2,10 @@ package ioc
 
 import (
 	"github.com/golobby/container/v3"
-	service_interfaces "github.com/moraisbrian/reservations-sale/application/interfaces"
-	"github.com/moraisbrian/reservations-sale/application/services"
-	"github.com/moraisbrian/reservations-sale/data/repositories"
-	repository_interfaces "github.com/moraisbrian/reservations-sale/domain/interfaces"
+	service_interfaces "github.com/brianmorais/reservations-sale/application/interfaces"
+	"github.com/brianmorais/reservations-sale/application/services"
+	"github.com/brianmorais/reservations-sale/data/repositories"
+	repository_interfaces "github.com/brianmorais/reservations-sale/domain/interfaces"
 )
 
 func SetDependencies() {

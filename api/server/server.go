@@ -2,7 +2,7 @@ package server
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/moraisbrian/reservations-sale/api/server/handlers"
+	"github.com/brianmorais/reservations-sale/api/server/handlers"
 )
 
 func Serve() {

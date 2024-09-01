@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/moraisbrian/reservations-sale/api/server"
-	"github.com/moraisbrian/reservations-sale/ioc"
+	"github.com/brianmorais/reservations-sale/api/server"
+	"github.com/brianmorais/reservations-sale/ioc"
 )
 
 func main() {

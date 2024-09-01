@@ -5,9 +5,9 @@ import (
 
 	"github.com/golobby/container/v3"
 	"github.com/labstack/echo/v4"
-	"github.com/moraisbrian/reservations-sale/api/controllers"
-	"github.com/moraisbrian/reservations-sale/application/dtos"
-	service_interfaces "github.com/moraisbrian/reservations-sale/application/interfaces"
+	"github.com/brianmorais/reservations-sale/api/controllers"
+	"github.com/brianmorais/reservations-sale/application/dtos"
+	service_interfaces "github.com/brianmorais/reservations-sale/application/interfaces"
 )
 
 func ServiceHandler(c echo.Context) error {

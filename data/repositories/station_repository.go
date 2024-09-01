@@ -3,7 +3,7 @@ package repositories
 import (
 	"fmt"
 
-	"github.com/moraisbrian/reservations-sale/domain/entities"
+	"github.com/brianmorais/reservations-sale/domain/entities"
 )
 
 type StationRepository struct{}

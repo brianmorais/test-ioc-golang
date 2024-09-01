@@ -1,9 +1,9 @@
 package services
 
 import (
-	"github.com/moraisbrian/reservations-sale/application/dtos"
-	"github.com/moraisbrian/reservations-sale/domain/entities"
-	repository_interfaces "github.com/moraisbrian/reservations-sale/domain/interfaces"
+	"github.com/brianmorais/reservations-sale/application/dtos"
+	"github.com/brianmorais/reservations-sale/domain/entities"
+	repository_interfaces "github.com/brianmorais/reservations-sale/domain/interfaces"
 )
 
 type StationService struct {

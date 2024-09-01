@@ -1,4 +1,4 @@
-module github.com/moraisbrian/reservations-sale
+module github.com/brianmorais/reservations-sale
 
 go 1.20
 

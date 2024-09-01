@@ -2,10 +2,10 @@ package controllers
 
 import (
 	"github.com/golobby/container/v3"
-	"github.com/moraisbrian/reservations-sale/application/dtos"
-	service_interfaces "github.com/moraisbrian/reservations-sale/application/interfaces"
-	"github.com/moraisbrian/reservations-sale/application/services"
-	repository_interfaces "github.com/moraisbrian/reservations-sale/domain/interfaces"
+	"github.com/brianmorais/reservations-sale/application/dtos"
+	service_interfaces "github.com/brianmorais/reservations-sale/application/interfaces"
+	"github.com/brianmorais/reservations-sale/application/services"
+	repository_interfaces "github.com/brianmorais/reservations-sale/domain/interfaces"
 )
 
 type StationController struct {
